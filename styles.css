@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background: linear-gradient(90deg, black, blue);
+}
+.draw{
+    display: none;
+}
+h1{
+    margin: 10%;
+    color: white;
+}
+.container{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.buttons{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+img{
+    border-radius: 50%;
+}

@@ -1,0 +1,18 @@
+.drawbody{
+    background-color: sandybrown;
+}
+.winbody{
+    background-color: greenyellow;
+}
+.losebody{
+    background-color: rgb(255, 54, 54);
+}
+body{
+    height: 95vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+h1{
+    margin: 50px;
+}
